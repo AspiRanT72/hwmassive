@@ -1,6 +1,7 @@
 package org.example;
 
 
+import org.example.lessoner.Degree;
 import org.example.lessoner.Task;
 
 public class Main {
@@ -9,5 +10,6 @@ public class Main {
         task.First();
         task.Second();
         task.Third();
+        Degree degree = new Degree(36.6);
     }
 }
