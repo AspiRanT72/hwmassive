@@ -25,7 +25,6 @@ public class Task {
             System.out.println();
         }
     }
-    //Необходимо задать одномерный массив и найти в нем минимальный и максимальный элементы
     public void Third() {
         int[] arr = {1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1};
         int min = arr[0];
